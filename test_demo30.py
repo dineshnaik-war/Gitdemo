@@ -10,3 +10,6 @@ def test_firstprogram():
 def test_GreetCreditcard():
     print('GoodMorning')
 
+def test_secondProgram():
+    print("hi")
+
