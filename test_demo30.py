@@ -18,3 +18,8 @@ def test_secondProgram():
 def test_thirdProgram():
     print('Goodbye')
 
+def test_fourthProgram():
+    print("nice")
+
+def test_fifthProgram():
+    print('night')
