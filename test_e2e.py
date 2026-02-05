@@ -4,3 +4,6 @@ def test_frirstProgram():
 
 def test_SecondProgram():
     print("nice")
+
+def test_fifthProgram():
+    print("night")
