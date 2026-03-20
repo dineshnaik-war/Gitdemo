@@ -18,3 +18,7 @@ def test_SecondCreditCard():
 
 def test_CrossBrowser(CrossBrowser):
     print(CrossBrowser[1])
+
+
+def test_Hi():
+    print("hi")
